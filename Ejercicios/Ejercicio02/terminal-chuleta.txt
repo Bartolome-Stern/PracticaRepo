@@ -1,0 +1,6 @@
+pwd - muestra el nombre de la carpeta de travajo actual
+
+mkdir - crea una nueva carpeta
+cd - cambia de carpeta
+cd .. - retrocede una carpeta
+rmdir - elimina una carpeta vacia
